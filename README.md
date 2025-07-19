@@ -36,9 +36,9 @@ src/main/java/com/unravel/demo
 ├── controller // REST endpoints for testing
 ├── db // DatabaseManager with HikariCP
 ├── memory // MemoryManager for allocation/release
-├── producerconsumer // PriorityLogProcessor, Task, Producer, Consumer
+├── concurrency // PriorityLogProcessor, Task, Producer, Consumer
 ├── deadlock // DeadlockSimulator
-└── UnravelBackendApp // Main Spring Boot entry point
+└── DemoApplication // Main Spring Boot entry point
 
 ## Setup Instructions
 --Clone the repository:
